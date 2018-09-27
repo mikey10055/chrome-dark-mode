@@ -1,0 +1,19 @@
+{
+  "version": "0.1",
+  "name": "dark mode",
+  "theme": {
+    "colors" : {
+      "frame" : [32, 33, 36],
+      "frame_inactive": [60, 65, 68],
+      "toolbar" : [50, 54, 57],
+      "tab_text": [214, 215, 215],
+      "bookmark_text": [214, 215, 215]
+    },
+    "tints" : {
+    },
+    "properties" : {
+      "ntp_background_alignment" : "bottom"
+    }
+},
+"manifest_version": 2
+}
